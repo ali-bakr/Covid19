@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">فيروس كورونا</string>
+    <string name="protect_your_self">فيروسات كورونا هي فصيلة فيروسات واسعة الانتشار يُعرف أنها تسبب ‏أمراضاً تتراوح من نزلات البرد الشائعة إلى الأمراض الأشد حدةً، مثل ‏متلازمة الشرق الأوسط التنفسية (‏MERS‏) ومتلازمة الالتهاب الرئوي الحاد ‏الوخيم (السارس). وفيروس كورونا المستجد (‏nCoV‏) هو سلالة جديدة من ‏الفيروس لم يسبق اكتشافها لدى البشر.‏
+
+وفيروسات كورونا حيوانية المنشأ، أي أنها تنتقل بين الحيوانات والبشر. وقد ‏خلصت التحريات المفصلة إلى أن فيروس كورونا المسبب لمرض سارس ‏‏(‏SARS-CoV‏) قد انتقل من قطط الزباد إلى البشر وأن فيروس كورونا ‏المسبب لمتلازمة الشرق الأوسط التنفسية (‏MERS-CoV‏) قد انتقل من الإبل ‏إلى البشر. وهناك عدة أنواع معروفة من فيروسات كورونا تسري بين ‏الحيوانات دون أن تصيب عدواها البشر حتى الآن. n\ ‏
+
+وتشمل علامات العدوى الشائعة: الأعراض التنفسية والحمى والسعال ‏وضيق النفس وصعوبات التنفس. وفي الحالات الأشد وطأة قد تسبب ‏العدوى الالتهاب الرئوي والمتلازمة التنفسية الحادة الوخيمة والفشل الكلوي ‏وحتى الوفاة.  n\‏
+
+وتشمل التوصيات النموذجية لمنع انتشار العدوى غسل اليدين بانتظام ‏وتغطية الفم والأنف عند العطس والسعال، وطهو اللحوم والبيض بشكل ‏كامل. n\ ويتعين كذلك تجنب مخالطة أي شخص تظهر عليه أعراض ‏الأمراض التنفسية كالسعال والعطس.
+</string>
+    <string name="liveNewsLink">https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61</string>
+    <string name="mistakesLink">http://www.emro.who.int/ar/health-topics/corona-virus/myth-busters.html</string>
+    <string name="videosLink">http://www.emro.who.int/ar/health-topics/corona-virus/videos.html</string>
+    <string name="maskLink">http://www.emro.who.int/ar/health-topics/corona-virus/when-to-use-a-maks.html</string>
+    <string name="workPreventLink">http://www.emro.who.int/ar/health-topics/corona-virus/protection-against-covid-2019-at-workspace.html</string>
+
+    <string name="travelLink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice</string>
+    <string name="you_other">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public</string>
+
+
+    <string name="hotlineannouncement">اعلنت وزارة الصحة والسكان المصرية عن تخصيص خط ساخن برقم 105 للاستفسار والابلاغ عن الحالات المصابة  </string>
+    <string name="notifay">تنويه : نحيط علم سيادتكم بآن هذه المعلومات مصدرها المكتب الاقليمي لقطاع شرق المتوسط التابع لمنظمة الصحة العالمية </string>
+    <string name="protectyourselfandyourfamly">احمي نفسك واسرتك</string>
+    <string name="protoct_at_work">احمي نفسك اثناء العمل</string>
+    <string name="when_mask">متي ينبغي استخدام الكمامة</string>
+    <string name="om_myths">تصحيح المفاهيم المغلوطة</string>
+    <string name="some_videos_breif">الفديوهات التوضيحية</string>
+    <string name="sympts_and_help">الاعراض وطلب النجدة</string>
+    <string name="live_news">الاحصائيات الحية المباشرة</string>
+    <string name="protection_during_travel">احمي نفسك اثناء السفر</string>
+    <string name="prot_you_family_F">احمي نفسك واحمي عيلتك</string>
+    <string name="how_you_others">1. كيف تحمي نفسك والاخرين من العدوي</string>
+    <string name="how_in_education">2. حماية الطلاب والمعلمين والتجمعات اثناء النشاط الدراسي</string>
+    <string name="how_work_helthman">3. كيف يمكن لمقدمي الرعاية الصحية حماية انفسهم</string>
+    <string name="how_during_travel_f">كيف تحمي نفسك اثناء السفر</string>
+    <string name="hotlin">الخط الساخن للوباء</string>
+    <string name="_150">105</string>
+    <string name="Asympose">علامات العدوى الشائعة</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Corona Virus</string>
+    <string name="protect_your_self">Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV). \n
+
+Coronavirus disease (COVID-19) is a new strain that was discovered in 2019 and has not been previously identified in humans. \n
+
+Coronaviruses are zoonotic, meaning they are transmitted between animals and people. \n Detailed investigations found that SARS-CoV was transmitted from civet cats to humans and MERS-CoV from dromedary camels to humans. Several known coronaviruses are circulating in animals that have not yet infected humans.
+
+Common signs of infection include respiratory symptoms, fever, cough, shortness of breath and breathing difficulties. \n In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death.
+
+Standard recommendations to prevent infection spread include regular hand washing, covering mouth and nose when coughing and sneezing, thoroughly cooking meat and eggs. Avoid close contact with anyone showing symptoms of respiratory illness such as coughing and sneezing.</string>
+    <string name="liveNewsLink">https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61</string>
+    <string name="mistakesLink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</string>
+    <string name="videosLink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/videos</string>
+    <string name="maskLink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks</string>
+
+    <string name="travelLink">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/travel-advice</string>
+
+    <string name="you_other">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public</string>
+    <string name="workPreventLink">https://www.who.int/docs/default-source/coronaviruse/getting-workplace-ready-for-covid-19.pdf?sfvrsn=359a81e7_6</string>
+
+    <string name="hotlineannouncement">اعلنت وزارة الصحة والسكان المصرية عن تخصيص خط ساخن برقم 105 للاستفسار والابلاغ عن الحالات المصابة  </string>
+    <string name="notifay">Note : the source of this information is the world health organization</string>
+    <string name="protectyourselfandyourfamly">Protect yourself and your family</string>
+    <string name="protoct_at_work">Protect your self at work</string>
+    <string name="when_mask">When Have to wear a mask </string>
+    <string name="om_myths">Misconceptions</string>
+    <string name="some_videos_breif">Explanation Videos </string>
+    <string name="sympts_and_help">Symptoms and help </string>
+    <string name="live_news">Corona live news</string>
+    <string name="protection_during_travel">protect your self during traveling</string>
+    <string name="prot_you_family_F">Protect yourself and your family</string>
+    <string name="how_you_others">1. كيف تحمي نفسك والاخرين من العدوي</string>
+    <string name="how_in_education">2. حماية الطلاب والمعلمين والتجمعات اثناء النشاط الدراسي</string>
+    <string name="how_work_helthman">3. كيف يمكن لمقدمي الرعاية الصحية حماية انفسهم</string>
+    <string name="how_during_travel_f">how to protect your self during traveling </string>
+    <string name="hotlin">Corona hotline number in Egypt </string>
+    <string name="_150">105</string>
+    <string name="Asympose">Common signs of infection </string>
+</resources>

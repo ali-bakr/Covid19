@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/prevention"
+        android:icon="@drawable/mask"
+        android:title="prevention"
+        />
+    <item
+        android:id="@+id/symptoms"
+        android:icon="@drawable/hospital_bed"
+        android:title="symptoms"
+       />
+    <item
+        android:id="@+id/News"
+        android:icon="@drawable/earth"
+        android:title="News"
+        android:iconTint="@color/colorPrimaryDark"/>
+</menu>

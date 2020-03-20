@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/white"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <WebView
+                android:id="@+id/you_others_prevent_wv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                />
+            <TextView
+                android:id="@+id/tv_0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:gravity="center_horizontal"
+                android:text="@string/prot_you_family_F"
+                android:textColor="@android:color/holo_red_dark"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.05" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/grid_img1"
+android:layout_marginTop="@dimen/_12sdp"
+                android:src="@drawable/save_family"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_120sdp"
+                android:visibility="invisible"
+                />
+           <!--
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_margin="@dimen/_10sdp"
+                android:layout_height="wrap_content"
+                android:text="@string/protect_your_self"
+                android:textSize="@dimen/_15sdp"
+                android:textColor="@android:color/black"
+                android:gravity="center"
+                android:layout_gravity="center"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.5"
+                app:layout_constraintHorizontal_bias="0.0"
+
+                />
+-->
+
+            <!-- hhhhhhhhhhhhhhhhhhhhhhhhhhh -->
+
+
+            <TextView
+
+                android:id="@+id/tv_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:gravity="center_horizontal"
+                android:text="@string/how_you_others"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.05" />
+
+            <com.github.chrisbanes.photoview.PhotoView
+                android:id="@+id/photo_view_you_other"
+                android:layout_marginTop="@dimen/_10sdp"
+               android:layout_gravity="center"
+
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_450sdp"
+                />
+
+            <TextView
+                android:id="@+id/tv_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:gravity="center_horizontal"
+                android:text="@string/how_in_education"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.05" />
+
+            <com.github.chrisbanes.photoview.PhotoView
+                android:id="@+id/photo_view_how_educaion"
+                android:src="@drawable/educational_crouded"
+                android:layout_gravity="center"
+android:layout_marginTop="@dimen/_10sdp"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_450sdp"
+                />
+
+            <TextView
+                android:id="@+id/tv_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:gravity="center_horizontal"
+                android:text="@string/how_work_helthman"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:textSize="@dimen/_18sdp"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.05" />
+
+            <com.github.chrisbanes.photoview.PhotoView
+                android:id="@+id/photo_view_how_healthman_worker"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:src="@drawable/healthman_protection"
+                android:layout_gravity="center"
+
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_450sdp"
+                />
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</LinearLayout>
